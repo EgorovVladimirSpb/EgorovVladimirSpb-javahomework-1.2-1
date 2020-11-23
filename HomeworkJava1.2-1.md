@@ -1,6 +1,4 @@
 ```
-import java.util.Arrays;
-
 public class Demo {
     public static void main(String[] args) {
         int current_balance = 2_000_000_000;
