@@ -1,3 +1,4 @@
+```
 import java.util.Arrays;
 
 public class Demo {
@@ -9,3 +10,4 @@ public class Demo {
 
     }
 }
+```
